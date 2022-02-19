@@ -15,7 +15,9 @@ Build a fancy looking avatar widget with a colorfull ring around the image.
 
 ## Features
 
+![example usage](./assets/example2.png)
 ![example usage](./assets/example1.png)
+
 Customizable features:
 - overal size
 - image
@@ -40,9 +42,3 @@ Example usage:
 FancyAvatar(40, Image.asset('assets/path/to/image.png'),
 ringColor: Colors.indigoAccent[400], spaceWidth: 4.5, elevation: 15.0)
 ```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
