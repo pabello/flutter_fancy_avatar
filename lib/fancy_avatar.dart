@@ -28,7 +28,7 @@ class FancyAvatar extends StatelessWidget {
         assert(ringWidth >= 0),
         assert(spaceWidth >= 0),
         assert(elevation >= 0),
-        assert(!(shadowColor != null && (elevation == null || elevation == 0))),
+        assert(!(shadowColor != null && elevation == 0)),
         super(key: key);
 
   /// Total radius of the avatar. Any further width values make the avatar

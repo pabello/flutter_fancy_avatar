@@ -11,14 +11,19 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
+# fancy_avatar
+
+<html>
+    <img src='./assets/example2.png' width='250' height='250'/>
+    <img src='./assets/example1.png' width='250' height='250'/>
+    <img src='./assets/example3.png' width='270' height='250'/>
+</html>
+
 Build a fancy looking avatar widget with a colorfull ring around the image.
 
 ## Features
 
-![example usage](./assets/example2.png)
-![example usage](./assets/example1.png)
-
-Customizable features:
+You can easily customize these features:
 - overal size
 - image
 - outer ring width and color
@@ -31,7 +36,7 @@ Customizable features:
 To start using this package, just add it in your `pubspec.yaml` file under dependencies.
 ```yaml
 dependencies:
-    fancy_avatar: ^0.0.1
+    fancy_avatar: ^0.0.2
 ```
 
 ## Usage
