@@ -6,3 +6,7 @@
 
 * Fixed assertions
 * Provided an example program
+
+## 0.0.3
+
+* Fixed the README file to appropriately display images in package overview
