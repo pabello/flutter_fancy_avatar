@@ -14,9 +14,9 @@ and the Flutter guide for
 # fancy_avatar
 
 <html>
-    <img src='./assets/example2.png' width='250' height='250'/>
-    <img src='./assets/example1.png' width='250' height='250'/>
-    <img src='./assets/example3.png' width='270' height='250'/>
+    <img src='https://github.com/pabello/flutter_fancy_avatar/blob/main/assets/example2.png' width='230' height='230'/>
+    <img src='https://github.com/pabello/flutter_fancy_avatar/blob/main/assets/example1.png' width='230' height='230'/>
+    <img src='https://github.com/pabello/flutter_fancy_avatar/blob/main/assets/example3.png' width='250' height='230'/>
 </html>
 
 Build a fancy looking avatar widget with a colorfull ring around the image.
