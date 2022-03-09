@@ -10,3 +10,7 @@
 ## 0.0.3
 
 * Fixed the README file to appropriately display images in package overview
+
+## 0.0.4
+
+* Truly fixed README and slightly differentiated the exemplary usage outcomes

@@ -1,6 +1,6 @@
 name: fancy_avatar
 description: Flutter package providing a fancy looking avatar widget class.
-version: 0.0.3
+version: 0.0.4
 repository: https://github.com/pabello/flutter_fancy_avatar
 
 environment:
